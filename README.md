@@ -19,7 +19,7 @@ The project also includes **automated testing** using `pytest` and **Continuous 
 - Automated tests with 100% coverage
 - CI pipeline using GitHub Actions
 
----
+
 
 ## Technologies Used
 
@@ -27,6 +27,6 @@ The project also includes **automated testing** using `pytest` and **Continuous 
 - **pytest** – for unit testing
 - **GitHub Actions** – for continuous integration
 
----
+
 
 
